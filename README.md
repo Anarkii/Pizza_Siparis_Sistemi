@@ -7,3 +7,4 @@ Bu proje kapsamında bir "Pizza Sipariş Sistemi" oluşturulmaya çalışılmı�
 Projede eksik gördüğüm noktaları yazmak istiyorum.
 - Kredi kartı şifresi "Orders_Database"de görünmeyecek şekilde kayıt edilebilir.
 - "Orders_Database" kayıt edilen müşteri bilgileri "," ile ayrılmıştır. Daha iyi bir görsel için düzenlenebilir.
+- Müşteriye sadece bir tane sos seçme imkanı sunmaktadır. Kod geliştirilir ise birden fazla sos ekleme imkanı sağlanabilir.
