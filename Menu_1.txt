@@ -1,0 +1,18 @@
+*********************************
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1.Klasik - 25$
+2.Margherita - 20$
+3.Turk - 30$
+4.Dominos - 35$
+
+* ve seçeceğiniz sos:
+1.Zeytin = +4$
+2.Mantar = +5$
+3.Keçi Peyniri = +1$
+4.Et = +9$
+5.Soğan = +7$
+6.Mısır = +6$
+
+
+* Teşekkür ederiz!
+*********************************
